@@ -24,6 +24,7 @@ CMakeSettings.json
 
 # Output
 bin/
+bin-int/
 lib/
 x64/
 # QtCreator
@@ -32,10 +33,7 @@ CMakeLists.txt.user
 # Generated
 assimp.pc
 assimp.aps
-revision.h
-contrib/zlib/zconf.h
 contrib/zlib/zlib.pc
-include/assimp/config.h
 unit.vcxproj.user
 
 # CMake
